@@ -5,7 +5,7 @@
 </head>
 
 <body>
-	Welcome ${name}!! your registration complete.  <a href="/login">Click here</a> to login.
+	Welcome ${name}!! your registration complete.  <a href="/">Click here</a> to login.
 </body>
 
 </html>
